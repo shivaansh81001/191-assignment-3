@@ -51,9 +51,27 @@ As we can see from the table, the prices scraped from the web, might not always 
 <br>
 ![image](https://github.com/user-attachments/assets/bbb8cf3c-1de1-4509-955c-949b36a4a99f)
 
+### So how do we standardize these local currencies?
+<br>
+Thats when APIs help us!
+<br>
+We used currency exchange APIs to obtain the conversion rates with CAD $ as the base currencey,<br>
+![image](https://github.com/user-attachments/assets/9dc49d28-4a1b-45ad-ba4b-eaf3c94db558)
 
+so all the prices we see now one will be in CAD$ , RIGHT??? NO , not so easily <br>
 
-*Note: Prices are approximate and subject to change.*
+<br>
+Turns out, the table we scraped for the prices, does not tell the currency codes but only the country. <br>
+So we scraped an additional table from wikipedia, which contained the code, for the country and corresponding name <br>
+
+![image](https://github.com/user-attachments/assets/a9c77ab3-48d2-41ac-b08a-ad3bf0d0c334)
+
+Now, we just need to join the tables of echange rates and country codes to get the resulting <br>
+
+![image](https://github.com/user-attachments/assets/5e928260-1335-4265-879d-dd0dd6b812b2)
+
+Then finally we did manage to get the final table which contained values for iphone in different countries represented in CAD $ for the ease of things.
+
 
 ---
 
