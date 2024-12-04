@@ -1,4 +1,4 @@
-title: CMPUT 191 Assignmnet 3
+title: CMPUT 191 Assignment 3
 author:
   name: GitHub User
   email: your-email@domain.com
@@ -44,7 +44,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: dark
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
