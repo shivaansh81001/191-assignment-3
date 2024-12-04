@@ -70,17 +70,87 @@ Now, we just need to join the tables of echange rates and country codes to get t
 
 ![image](https://github.com/user-attachments/assets/5e928260-1335-4265-879d-dd0dd6b812b2)
 
-Then finally we did manage to get the final table which contained values for iphone in different countries represented in CAD $ for the ease of things.
+Then finally we did manage to get the final table which contained values for iphone in different countries represented in CAD $ for the ease of things.<br>
+
+![image](https://github.com/user-attachments/assets/f08171d5-5128-4675-aa91-d964c46b31b6)
+
+And here are the results that we found from the analysis:<br>
+Country with **most expensive** iphone 16 is **India** with price **$CAD 1325.51** <br>
+Country with **least expensive** iphone 16 is **United States** with price **$CAD 1122.97**
+
 
 
 ---
 
-## Analysis of Price Variations
+## SO WHAT IS CAUSIG THIS HUGE PRICE DIFFERENCE? IS IT INFLATION?
 
-Several factors contribute to the pricing differences of the iPhone 16 globally:
-1. **Import Taxes and Duties**: Countries like India impose high tariffs on imported goods.
-2. **Currency Exchange Rates**: Fluctuations in currency impact local pricing.
-3. **Regional Tax Policies**: Sales tax or VAT rates significantly affect end-user pricing.
+We decided to inspect our first suspect which was inflation. Inflain must be high in the countries where iphone is so expensive right? So for the ease of things , we decided to inspect countries with most expensive iphone and least expensive iphone and we started comparing the inflation rates of India and USA by scraping the web one more time.  <br>
+
+**Then we use linear regression to calculate the line of best fit to caluculate the inflation rates of both the countries in Year 2030
+
+Firstly, US <br>
+
+![image](https://github.com/user-attachments/assets/3911b234-1d76-44e1-8799-cacfc9d7d9ea)
+
+![image](https://github.com/user-attachments/assets/544775a8-9ad8-4851-b6a4-d34e6cb687de)
+We can see from the line , the inflation in US is on a rise and by Year 2030 will reach approximately **~ 4.90%** <br>
+<br>
+Secondly, India <br>
+![image](https://github.com/user-attachments/assets/79e930d2-ddd7-40ea-98ef-0622607aca49)
+
+![image](https://github.com/user-attachments/assets/0b8db2d5-5dc4-416a-a1ea-a00b6ca7d31c)
+
+We can see from the result, the inflation in India is on the decline by year 2030 and is approximated as **~2.09%** <br>
+
+### But this doesn't make any sense ?!
+
+If inflation was the sole reason iPhones would have been more expensive in US than India, but thats not the case.
+
+## Actual Reason
+
+To analyze that if there is any other factore involved, we calculate PPP (Purchase Power Parity) which compares the price of item to as whether the currency is overvalued or undervalued relative to one another.
+If the currency does end up to be undervalued, we shall know that there are other factors involved. <br>
+
+First, we analyze how much of a markup % has been placed on iPhone in each country, after that we calcuate the PPP dividing the local currency with canadian price. 
+
+PPP= (Price in country * exchange rate)/canadian price
+
+![image](https://github.com/user-attachments/assets/c377ad48-133a-4822-933b-78e13224ed97)
+
+Now, we compare the PPP to the exchange rate, <br>
+The indian rupee (~60 / CAD) << PPP (70/ CAD$) <br>
+vs <br>
+The USD (0.72 $/ CAD) ~= PPP(0.711 $/ CAD)<br>
+
+That tells us that there are factors involved other than just the exchange rate. The indian rupee is extremely undervalued as shown in the figure below
+
+![image](https://github.com/user-attachments/assets/dc74bba9-74e4-4ca3-b812-dd023b0d3d83)
+
+## Conclusion 
+
+Based on further investigation, we can assume there are other factors affecting iphone price in different countries.
+
+For example, just take price in India as reference, the main factor leads to pricer is the high import taxes."Consequently, Apple is subject to customs duties, which have a direct impact on the final prices. Additionally, the Goods and Services Tax (GST) of *18% *further contributes to the cost, resulting in a cumulative increase of *40% *in the final price."
+
+Attribution notice "https://economictimes.indiatimes.com/news/how-to/why-iphones-are-still-pricier-in-india-despite-made-in-india-production/articleshow/103682053.cms?from=mdr" By THE ECONOMIC TIMES NEWS
+
+Despite the fact that since 2016, Apple has been manufaturing products in India, iphones are not entirely made in India but only assembled in India. Because of the supply chain, all the components required for iphone production are not manufactured in the same country, which potentially lead to the pricy cost.
+
+In addtion, older-generation models drive the majority of sales for Apple in India, as the "Pro" models help it improve the affordability of base models and old_generation models. These iphones will become a better buy in India then other countries.
+
+Attribution notice "https://timesofindia.indiatimes.com/gadgets-news/why-made-in-india-iphones-do-not-lead-to-a-price-cut/articleshow/103676724.cms" By THE TIMES OF INDIA
+
+In conclusion, we can suggest three factors are affecting iphone's price in different countries. 1 import duties, 2 cost, 3 the sales of older-generation models differences
+
+
+
+
+
+
+
+
+
+
 
 ---
 
