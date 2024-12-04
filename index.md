@@ -1,8 +1,3 @@
-# Price of iPhone 16 Globally
-
-Welcome to the **"Price of iPhone 16 Globally"** page. This project aims to provide insights into the global pricing of the iPhone 16 across various countries and regions. Below, you will find an analysis of pricing trends, currency conversion impacts, and regional variations.
-
----
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -17,6 +12,8 @@ Welcome to the **"Price of iPhone 16 Globally"** page. This project aims to prov
 
 ## Introduction
 
+### Welcome to our analysis page.<br>
+The aim of this analysis is to compare the prices of the latest model of iphone from all over the world and obeserve any differences in pricing as compared to Canada.
 The iPhone 16, the latest in Apple's flagship smartphone lineup, is one of the most anticipated devices of the year. This page explores how pricing differs across countries and regions, factoring in aspects like:
 - Taxes and duties
 - Currency exchange rates
