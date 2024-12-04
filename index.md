@@ -1,5 +1,3 @@
-# Price of iPhone 16 Globally
-
 Welcome to our data analysis page. This project aims to provide insights into the global pricing of the iPhone 16 across various countries and regions. Below, you will find an analysis of pricing trends, currency conversion impacts, and other suspects 😉 of the price difference.
 
 ---
