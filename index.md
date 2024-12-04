@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -25,60 +24,9 @@
     </section>
 
     <section>
-        <h2>Key Features of the iPhone 16</h2>
-        <ul>
-            <li><strong>Next-gen A-series chip:</strong> Faster performance.</li>
-            <li><strong>Advanced camera system:</strong> Improved low-light capabilities.</li>
-            <li><strong>Longer battery life:</strong> Enhanced power efficiency.</li>
-            <li><strong>New design:</strong> Improved durability.</li>
-            <li><strong>5G enhancements:</strong> Better connectivity.</li>
-        </ul>
-    </section>
-
-    <section>
         <h2>Global Pricing Overview</h2>
-        <table>
-            <thead>
-                <tr>
-                    <th>Country/Region</th>
-                    <th>Price (Local Currency)</th>
-                    <th>Price (USD Equivalent)</th>
-                    <th>Notes</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>USA</td>
-                    <td>$999</td>
-                    <td>$999</td>
-                    <td>Excluding state taxes</td>
-                </tr>
-                <tr>
-                    <td>Canada</td>
-                    <td>CAD 1399</td>
-                    <td>$1050</td>
-                    <td>Includes VAT</td>
-                </tr>
-                <tr>
-                    <td>UK</td>
-                    <td>£999</td>
-                    <td>$1200</td>
-                    <td>Includes 20% VAT</td>
-                </tr>
-                <tr>
-                    <td>India</td>
-                    <td>₹119,900</td>
-                    <td>$1450</td>
-                    <td>High import duties</td>
-                </tr>
-                <tr>
-                    <td>Australia</td>
-                    <td>AUD 1699</td>
-                    <td>$1100</td>
-                    <td>Includes GST</td>
-                </tr>
-            </tbody>
-        </table>
+        ![image](https://github.com/user-attachments/assets/6b9b03bd-6fb0-455b-ace2-b97fe8120c19)
+
     </section>
 
     <section>
