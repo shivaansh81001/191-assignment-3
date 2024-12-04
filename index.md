@@ -1,6 +1,6 @@
 # Price of iPhone 16 Globally
 
-Welcome to the **"Price of iPhone 16 Globally"** page. This project aims to provide insights into the global pricing of the iPhone 16 across various countries and regions. Below, you will find an analysis of pricing trends, currency conversion impacts, and regional variations.
+Welcome to our data analysis page. This project aims to provide insights into the global pricing of the iPhone 16 across various countries and regions. Below, you will find an analysis of pricing trends, currency conversion impacts, and other suspects 😉 of the price difference.
 
 ---
 
@@ -28,9 +28,6 @@ These libraries are-<br>
 ## Introduction
 
 The iPhone 16, the latest in Apple's flagship smartphone lineup, is one of the most anticipated devices of the year. This page explores how pricing differs across countries and regions, factoring in aspects like:
-- Taxes and duties
-- Currency exchange rates
-- Regional market dynamics
 
 ---
 
@@ -46,14 +43,10 @@ Here are some of the standout features of the iPhone 16:
 ---
 
 ## Global Pricing Overview
+We used the BeautifulSoup library and scraped the browser to find out the current global prices of the latest model of iphone and this is what we found -
+![image](https://github.com/user-attachments/assets/d4219f7d-fd96-4d54-92bf-d458fd4a7b02)
 
-| Country/Region | Price (Local Currency) | Price (USD Equivalent) | Notes                        |
-|----------------|-------------------------|-------------------------|-----------------------------|
-| USA            | $999                   | $999                   | Excluding state taxes       |
-| Canada         | CAD 1399               | $1050                  | Includes VAT                |
-| UK             | £999                   | $1200                  | Includes 20% VAT            |
-| India          | ₹119,900               | $1450                  | High import duties          |
-| Australia      | AUD 1699               | $1100                  | Includes GST                |
+
 
 *Note: Prices are approximate and subject to change.*
 
