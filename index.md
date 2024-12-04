@@ -43,8 +43,13 @@ Here are some of the standout features of the iPhone 16:
 ---
 
 ## Global Pricing Overview
-We used the BeautifulSoup library and scraped the browser to find out the current global prices of the latest model of iphone and this is what we found -
+We used the BeautifulSoup library and scraped the browser to find out the current global prices of the latest model of iphone and this is what we found -<br>
+<br>
 ![image](https://github.com/user-attachments/assets/d4219f7d-fd96-4d54-92bf-d458fd4a7b02)
+<br>
+As we can see from the table, the prices scraped from the web, might not always clean so we had to implemet some functions to clean the data, and after a lot of cleaning and brushing and wiping, we were able to obtain a table which was in local currencies 🤦‍♂️<br>
+<br>
+![image](https://github.com/user-attachments/assets/bbb8cf3c-1de1-4509-955c-949b36a4a99f)
 
 
 
