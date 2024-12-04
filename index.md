@@ -8,11 +8,11 @@ Welcome to our data analysis page. This project aims to provide insights into th
 1. [Prerequisites](#Prerequisites)
 2. [Introduction](#introduction)
 3. [Key Features of the iPhone 16](#key-features-of-the-iphone-16)
-4. [Global Pricing Overview](#global-pricing-overview)
-5. [Analysis of Price Variations](#analysis-of-price-variations)
-6. [Currency and Economic Impact](#currency-and-economic-impact)
+4. [Global Pricing Overview](#Pricing-overview)
+5. [SO WHAT IS CAUSIG THIS HUGE PRICE DIFFERENCE? IS IT INFLATION?](#Inflation?)
+6. [Actual Reason](#Actual-Reason)
 7. [Conclusion](#conclusion)
-8. [References](#references)
+
 
 ---
 ## Prerequisites
@@ -152,7 +152,7 @@ In conclusion, we can suggest three factors are affecting iphone's price in diff
 This section delves into the role of economic factors in shaping iPhone pricing:
 - **Currency Strength**: Stronger currencies generally result in lower local pricing.
 - **Market Strategies**: Apple’s pricing strategy often adjusts to align with local market conditions.
-- **Economic Indicators**: Inflation and purchasing power influence affordability.
+- **Transpotation Factors**: Apple's products are not directly manufactured in most countries like India
 
 ---
 
