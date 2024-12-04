@@ -18,11 +18,11 @@ Welcome to the **"Price of iPhone 16 Globally"** page. This project aims to prov
 ## Prerequisites
 Firstly, we need to import a few python libraries which will help us to analyse and scrape the data. These will also enable us to clean, organize, and maniplulate the data according to our needs.<br>
 These libraries are-<br>
-- Datascience library - for creating the tables and performing related functions
-- requests - to send and fetch requests from the browser 
-- json - to convert the fetched requests to readable dictionary formats 
-- numpy,pandas,matplotlib - to manipulate, clean and visualize the data    
-- BeautifulSoup - to scrape the web
+- ***Datascience library*** - for creating the tables and performing related functions
+- ***requests*** - to send and fetch requests from the browser 
+- ***json*** - to convert the fetched requests to readable dictionary formats 
+- ***numpy,pandas,matplotlib*** - to manipulate, clean and visualize the data    
+- ***BeautifulSoup*** - to scrape the web
   
 
 ## Introduction
