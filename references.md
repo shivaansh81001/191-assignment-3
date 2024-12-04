@@ -1,4 +1,4 @@
-#References
+# About
 
 ## Team members
 
