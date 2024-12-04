@@ -106,6 +106,8 @@ We can see from the result, the inflation in India is on the decline by year 203
 
 If inflation was the sole reason iPhones would have been more expensive in US than India, but thats not the case.
 
+---
+
 ## Actual Reason
 
 To analyze that if there is any other factore involved, we calculate PPP (Purchase Power Parity) which compares the price of item to as whether the currency is overvalued or undervalued relative to one another.
@@ -126,6 +128,8 @@ That tells us that there are factors involved other than just the exchange rate.
 
 ![image](https://github.com/user-attachments/assets/dc74bba9-74e4-4ca3-b812-dd023b0d3d83)
 
+---
+
 ## Conclusion 
 
 Based on further investigation, we can assume there are other factors affecting iphone price in different countries.
@@ -143,18 +147,7 @@ Attribution notice "https://timesofindia.indiatimes.com/gadgets-news/why-made-in
 In conclusion, we can suggest three factors are affecting iphone's price in different countries. 1 import duties, 2 cost, 3 the sales of older-generation models differences
 
 
-
-
-
-
-
-
-
-
-
 ---
-
-## Currency and Economic Impact
 
 This section delves into the role of economic factors in shaping iPhone pricing:
 - **Currency Strength**: Stronger currencies generally result in lower local pricing.
@@ -163,14 +156,4 @@ This section delves into the role of economic factors in shaping iPhone pricing:
 
 ---
 
-## Conclusion
 
-The iPhone 16's global pricing reflects a complex interplay of taxes, currency exchange rates, and Apple's regional strategies. Understanding these variations is key for global customers and provides insights into broader economic trends.
-
----
-
-## References
-
-- Apple Official Website: [apple.com](https://www.apple.com)
-- Currency Exchange Rates: [xe.com](https://www.xe.com)
-- Regional Tax Information: Government tax portals of respective countries.
