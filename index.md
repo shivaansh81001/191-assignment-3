@@ -8,8 +8,8 @@ Welcome to our data analysis page. This project aims to provide insights into th
 1. [Prerequisites](#Prerequisites)
 2. [Introduction](#introduction)
 3. [Key Features of the iPhone 16](#key-features-of-the-iphone-16)
-4. [Global Pricing Overview](#Pricing-overview)
-5. [SO WHAT IS CAUSIG THIS HUGE PRICE DIFFERENCE? IS IT INFLATION?](#Inflation?)
+4. [Global Pricing Overview](#Global-Pricing-Overview)
+5. [SO WHAT IS CAUSING THIS HUGE PRICE DIFFERENCE? IS IT INFLATION?](#SO-WHAT-IS-CAUSING-THIS-HUGE-PRICE-DIFFERENCE?-IS-IT-INFLATION?)
 6. [Actual Reason](#Actual-Reason)
 7. [Conclusion](#conclusion)
 
@@ -82,7 +82,7 @@ Country with **least expensive** iphone 16 is **United States** with price **$CA
 
 ---
 
-## SO WHAT IS CAUSIG THIS HUGE PRICE DIFFERENCE? IS IT INFLATION?
+## SO WHAT IS CAUSING THIS HUGE PRICE DIFFERENCE? IS IT INFLATION?
 
 We decided to inspect our first suspect which was inflation. Inflain must be high in the countries where iphone is so expensive right? So for the ease of things , we decided to inspect countries with most expensive iphone and least expensive iphone and we started comparing the inflation rates of India and USA by scraping the web one more time.  <br>
 
