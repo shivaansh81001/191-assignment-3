@@ -7,7 +7,7 @@ This project aims to provide insights into the global pricing of the iPhone 16 a
 2. [Introduction](#introduction)
 3. [Key Features of the iPhone 16](#key-features-of-the-iphone-16)
 4. [Global Pricing Overview](#Global-Pricing-Overview)
-5. [SO WHAT IS CAUSING THIS HUGE PRICE DIFFERENCE? IS IT INFLATION?](#SO-WHAT-IS-CAUSING-THIS-HUGE-PRICE-DIFFERENCE?-IS-IT-INFLATION?)
+5. [SO WHAT IS CAUSING THIS HUGE PRICE DIFFERENCE? IS IT INFLATION?](#SO-WHAT-IS-CAUSING-THIS-HUGE-PRICE-DIFFERENCE?-IS-IT-INFLATION??)
 6. [Actual Reason](#Actual-Reason)
 7. [Conclusion](#conclusion)
 
